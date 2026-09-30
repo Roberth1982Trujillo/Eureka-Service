@@ -13,7 +13,11 @@ on:
     branches: [ "main" ]
   pull_request:
     branches: [ "main" ]
-
+# --- CH-08: Automatización de Publicación de Imágenes (GHCR). ---
+permissions:
+  contents: read
+  packages: write
+# -----------------
 jobs:
   build:
 
