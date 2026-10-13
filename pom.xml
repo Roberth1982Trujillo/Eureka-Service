@@ -72,7 +72,7 @@
 			<dependency>
 				<groupId>tools.jackson.core</groupId>
 				<artifactId>jackson-core</artifactId> <!-- CORE -->
-				<version>3.1.7</version>
+				<version>3.2.3</version>
 			</dependency>
 		</dependencies>
 	</dependencyManagement>
